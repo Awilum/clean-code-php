@@ -2105,5 +2105,7 @@ function showList(array $employees): void
     * [ahmedalmory/clean-code-php](https://github.com/ahmedalmory/clean-code-php)  
 * :jp: **Японский:**
     * [hayato07/clean-code-php](https://github.com/hayato07/clean-code-php)
+* :indonesia: **Indonesia:**
+    * [ranggakd/clean-code-php](https://github.com/ranggakd/clean-code-php)
 
 **[⬆ вернуться к началу](#Содержание)**
